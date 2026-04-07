@@ -149,8 +149,8 @@ maven-market-powerbi/
 ├── top5_performers.png          ← Top 5 Performers bookmark view
 ├── model_view.png               ← Data model screenshot
 ├── docs/
-│   ├── data_dictionary.docx     ← Column definitions for all tables
-│   └── dax_formulas.docx        ← All 24 DAX measure formulas
+│   ├── data_dictionary.md       ← Column definitions for all tables
+│   └── dax_formulas.md          ← All 24 DAX measure formulas
 └── data/
     ├── Transactions/            ← Folder (1997 + 1998 transaction files)
     ├── MavenMarket_Calendar.csv
